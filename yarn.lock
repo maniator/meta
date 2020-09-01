@@ -120,13 +120,7 @@ commander@2.6.0:
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.6.0.tgz#9df7e52fb2a0cb0fb89058ee80c3104225f37e1d"
 
-commander@2.9.0, commander@^2.9.0:
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/commander/-/commander-2.9.0.tgz#9c99094176e12240cb22d6c5146098400fe0f7d4"
-  dependencies:
-    graceful-readlink ">= 1.0.0"
-
-commander@mateodelnorte/commander.js:
+commander@2.9.0, commander@^2.9.0, commander@mateodelnorte/commander.js:
   version "2.9.0"
   resolved "https://codeload.github.com/mateodelnorte/commander.js/tar.gz/3109d5728fc8a79f2dd80a0bec88bdc00323e2fe"
   dependencies:
@@ -214,8 +208,8 @@ exit-hook@^1.0.0:
   resolved "https://registry.yarnpkg.com/exit-hook/-/exit-hook-1.1.1.tgz#f05ca233b48c05d54fff07765df8507e95c02ff8"
 
 extend@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/extend/-/extend-3.0.0.tgz#5a474353b9f3353ddd8176dfd37b91c83a46f1d4"
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/extend/-/extend-3.0.2.tgz#f8b1136b4071fbd8eb140aff858b1019ec2915fa"
 
 external-editor@^1.1.0:
   version "1.1.1"
@@ -560,9 +554,9 @@ meta-exec@^0.0.2:
     chalk "^1.1.3"
     debug "^2.6.0"
 
-meta-git@^0.0.15:
-  version "0.0.15"
-  resolved "https://registry.yarnpkg.com/meta-git/-/meta-git-0.0.15.tgz#dde11f267545c69a57bdb2c04a3f1e547f56865c"
+meta-git@^0.0.16:
+  version "0.0.16"
+  resolved "https://registry.yarnpkg.com/meta-git/-/meta-git-0.0.16.tgz#693cc18a93537efdef17f4d3aa3b5fab28ebc974"
   dependencies:
     chalk "^1.1.3"
     commander "^2.9.0"
